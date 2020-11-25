@@ -31,11 +31,11 @@ Mais detalhes de implementações, padrões utilizados, ferramentas utilizadas e
 - Clone este repositório:
 
 
-```git clone git@github.com:NickNish09/MeetingFy.git```
+```git clone https://github.com/NickNish09/MeetingFy.git```
 
 - Entre na pasta dele:
 
-```cd Meetingfy```
+```cd MeetingFy```
 
 
 - Execute as permissões para os scripts automátios:
