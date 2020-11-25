@@ -1,0 +1,6 @@
+[submodule "MeetingfyApi"]
+	path = MeetingfyApi
+	url = git@github.com:NickNish09/MeetingfyApi.git
+[submodule "MeetingfyFront"]
+	path = MeetingfyFront
+	url = git@github.com:NickNish09/MeetingfyFront.git
