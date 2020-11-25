@@ -13,6 +13,8 @@ Hospedagem da Api no Heroku: https://meetingfy-api.herokuapp.com/v1/
 
 ## Features e Breve Descrição
 O planejamento da solução foi feito no site whimsical (https://whimsical.com/meetingfy-PuRYrcSneNYZRb3vsqfpKU), com a prototipagem de algumas telas e levantamento dos requisitos inicialmente. A solução se dividiu em 2 partes, a API (backend em Ruby On Rails) e o Client (frontend em React).
+
+Features:
 - Autenticação via Token  
 - Criar/Editar/Excluir/Ver salas  
 - Reservar salas para reuniões
@@ -23,7 +25,7 @@ O planejamento da solução foi feito no site whimsical (https://whimsical.com/m
   
 **Todas as reuniões tem validação para acontecer no horário comercial (8:00 - 18:00)**  e devem ocorrer em data futura de sua marcação.
 
-Mais detalhes de implementações, padrões utilizados e requisitos específicos de cada parte se encontram no README.md de cada parte (https://github.com/NickNish09/MeetingfyApi e https://github.com/NickNish09/MeetingfyFront)
+Mais detalhes de implementações, padrões utilizados, ferramentas utilizadas e requisitos específicos de cada parte se encontram no README.md de cada parte (https://github.com/NickNish09/MeetingfyApi e https://github.com/NickNish09/MeetingfyFront)
 ## Como rodar localmente
 
 - Execute as permissões para os scripts automátios:
