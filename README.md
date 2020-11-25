@@ -27,8 +27,10 @@ Features:
 
 Mais detalhes de implementações, padrões utilizados, ferramentas utilizadas e requisitos específicos de cada parte se encontram no README.md de cada parte (https://github.com/NickNish09/MeetingfyApi e https://github.com/NickNish09/MeetingfyFront)
 ## Como rodar localmente
+- Pré requisitos: ter instalado o Ruby 2.6.3 e um terminal unix
 
-- Clone este repositório:
+
+- Clone este repositório (tenha certeza de usar a flag --recursive para clonar os submódulos):
 
 
 ```git clone https://github.com/NickNish09/MeetingFy.git --recursive```
