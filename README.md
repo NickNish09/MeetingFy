@@ -28,8 +28,17 @@ Features:
 Mais detalhes de implementações, padrões utilizados, ferramentas utilizadas e requisitos específicos de cada parte se encontram no README.md de cada parte (https://github.com/NickNish09/MeetingfyApi e https://github.com/NickNish09/MeetingfyFront)
 ## Como rodar localmente
 
-- Execute as permissões para os scripts automátios:
+- Clone este repositório:
 
+
+```git clone git@github.com:NickNish09/MeetingFy.git```
+
+- Entre na pasta dele:
+
+```cd Meetingfy```
+
+
+- Execute as permissões para os scripts automátios:
   
 
 ```chmod +x setup_api.sh && chmod +x setup_front.sh```
