@@ -31,7 +31,7 @@ Mais detalhes de implementações, padrões utilizados, ferramentas utilizadas e
 - Clone este repositório:
 
 
-```git clone https://github.com/NickNish09/MeetingFy.git```
+```git clone https://github.com/NickNish09/MeetingFy.git --recursive```
 
 - Entre na pasta dele:
 
